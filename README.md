@@ -2,7 +2,8 @@
 
 https://doi.org/10.1016/j.geoderma.2023.116624
 
-Abstract
+Abstract:
+
 Near surface electromagnetic geophysical techniques are proven tools to support soil ecosystem services and soil exploration. Such geophysical techniques provide electromagnetic properties that are useful to characterize the studied soil. The link between relevant soil characteristics and geophysical properties, such as dielectric permittivity (ε), is commonly expressed by pedophysical models. However, some weaknesses remain in their application, such as the requirement of parameters that are difficult to measure or calculate. Therefore, these parameters are frequently fixed, but this oversimplifies the complexity of the investigated soils. Moreover, the validity of ε pedophysical models in the frequency range of operating soil moisture sensors (normally < 100 MHz) remains poorly investigated.
 
 In this study, the accuracy and adaptability of ε pedophysical models at different electromagnetic frequency ranges was tested and improved using newly collected laboratory and field data. Such data was collected on soils over a wide range of textures, physical and chemical properties.
