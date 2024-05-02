@@ -13,3 +13,5 @@ To achieve this, we review the measurement methods and characteristics of ε ped
 In conclusion, despite it is unlikely to characterize soil structure, bulk density, or temperature at 50 MHz, these updated PPMs are useful for highly accurate water content and ε predictions, in both laboratory and field conditions, without the need for calibration data. As the developed modelling procedures are valid for a wide range of electromagnetic frequencies, these can be applied to soil exploration with TDR and GPR instrumentation.
 
 For reproducibility, all collected soil data are provided, alongside open-source Python code that contains the presented modelling procedures.
+
+![image](https://github.com/MendoVeirana/Soil-dielectric-permittivity-modelling-for-50-MHz-instrumentation/assets/69166739/3dab8f5c-beda-4fd7-bcbe-e6c266888e33)
